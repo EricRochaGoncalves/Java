@@ -3,7 +3,7 @@
 </div>
 
 
-# 🖥️ Java Repository
+# ☕ Java Repository
 
 Bem-vindo ao repositório de estudos em **Java**! Aqui você encontrará diversos conteúdos que exploram as bases e conceitos fundamentais dessa linguagem incrível. 🚀
 
