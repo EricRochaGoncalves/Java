@@ -17,7 +17,6 @@ Bem-vindo ao repositório de estudos em **Java**! Aqui você encontrará diverso
 
 ---
 
-## 🏷️ Badges
 
 ![Operadores](https://img.shields.io/badge/Operadores-FFA500?style=for-the-badge&logo=java&logoColor=white)  
 ![Estruturas Condicionais](https://img.shields.io/badge/Estruturas%20Condicionais-FFA500?style=for-the-badge&logo=java&logoColor=white)  
