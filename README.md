@@ -38,9 +38,11 @@ Bem-vindo ao repositório de estudos em **Java**! Aqui você encontrará diverso
 ## 🧑‍💻 Autor
 
 Feito com 💻 e ☕ por **[Eric Gonçalves](https://github.com/seu-usuario)**.
-
 ---
+--- 
+
 A imagem de fundo utilizada como base para a capa deste repositório não é de minha autoria. Ela foi obtida por meio do site Freepik, sendo de propriedade do autor original. Todos os direitos da imagem são reservados ao criador, e sua utilização segue as condições de licenciamento do Freepik. Agradeço ao autor pela disponibilização da imagem. - Eric Gonçalves. 
+
 ---
 
 ## 📄 Licença
