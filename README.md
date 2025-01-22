@@ -8,7 +8,7 @@
 Bem-vindo ao repositório de estudos em **Java**! Aqui você encontrará diversos conteúdos que exploram as bases e conceitos fundamentais dessa linguagem incrível. 🚀
 
 ---
-#Tecnologias usadas aqui 
+# Tecnologias usadas aqui 
 
 ![Java](https://img.shields.io/badge/Java-FF6F00?style=for-the-badge&logo=java&logoColor=white)
 
