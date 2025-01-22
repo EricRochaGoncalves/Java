@@ -8,6 +8,16 @@
 Bem-vindo ao repositório de estudos em **Java**! Aqui você encontrará diversos conteúdos que exploram as bases e conceitos fundamentais dessa linguagem incrível. 🚀
 
 ---
+#Tecnologias usadas aqui 
+
+![Java](https://img.shields.io/badge/Java-FF6F00?style=for-the-badge&logo=java&logoColor=white)
+
+![JVM](https://img.shields.io/badge/JVM-FF6F00?style=for-the-badge&logo=java&logoColor=white)
+
+![JVK](https://img.shields.io/badge/JVK-FF6F00?style=for-the-badge&logo=java&logoColor=white)
+
+![VS Code](https://img.shields.io/badge/VS_Code-FF6F00?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+---
 
 ## 📚 Aqui você verá:
 
