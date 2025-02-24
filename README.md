@@ -1,7 +1,3 @@
-<div style="text-align: center;">
-  <img src="https://private-user-images.githubusercontent.com/166281170/405171602-401cbf52-c844-43ec-9852-9075b1d0538f.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzc0NTQ1NjAsIm5iZiI6MTczNzQ1NDI2MCwicGF0aCI6Ii8xNjYyODExNzAvNDA1MTcxNjAyLTQwMWNiZjUyLWM4NDQtNDNlYy05ODUyLTkwNzViMWQwNTM4Zi5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMTIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDEyMVQxMDExMDBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iMjM2M2QyNTlmNzBjMzQ2ZTVmM2Y5MjBlMzQ5YzNiY2VhYjgxMjBjOTQyYjE0MjJkNDY4M2RkYmU3MTQ0NTkyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.Ps5GRNoMJKwKuhsXpaL8xEOvegcnw9Lm_U4fpfaEuzA" alt="Descrição da imagem" />
-</div>
-
 
 # ☕ Repositório Java
 
@@ -47,7 +43,7 @@ Bem-vindo ao repositório de estudos em **Java**! Aqui você encontrará diverso
 
 ## 🧑‍💻 Autor
 
-Feito com 💻 e ☕ por **[Eric Gonçalves](https://github.com/seu-usuario)**.
+Feito ☕ por **[Eric Gonçalves]**.
 ---
 --- 
 
