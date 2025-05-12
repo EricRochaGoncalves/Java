@@ -19,6 +19,7 @@ Bem-vindo ao repositório de estudos em **Java**! Aqui você encontrará diverso
 - Tipos primitivos
 - Interfaces gráficas
 - Dados
+- Orientação a objetos e coesão entre eles
 
 ---
 
@@ -31,6 +32,7 @@ Bem-vindo ao repositório de estudos em **Java**! Aqui você encontrará diverso
 ![Tipos Primitivos](https://img.shields.io/badge/Tipos%20Primitivos-FFA500?style=for-the-badge&logo=java&logoColor=white)  
 ![Interfaces Gráficas](https://img.shields.io/badge/Interfaces%20Gráficas-FFA500?style=for-the-badge&logo=java&logoColor=white)  
 ![Dados](https://img.shields.io/badge/Dados-FFA500?style=for-the-badge&logo=java&logoColor=white)  
+![Objetos](https://img.shields.io/badge/Objetos-4CAF50?style=for-the-badge&logo=java&logoColor=white)
 ![++](https://img.shields.io/badge/++-FFA500?style=for-the-badge&logo=java&logoColor=white)
 
 ---
