@@ -36,7 +36,14 @@ Bem-vindo ao repositório de estudos em **Java**! Aqui você encontrará diverso
 ![++](https://img.shields.io/badge/++-FFA500?style=for-the-badge&logo=java&logoColor=white)
 
 ---
+## Dá uma olhada aqui em um dos códigos do **Javeiro** 👨‍💻☕
 
+[**Uma mini linguagem usando os objetos do java**](https://github.com/EricRochaGoncalves/Linguagem_da_madrugada) ou <br>
+[**Uma mini linguagem que transforma texto em código morse**](https://github.com/EricRochaGoncalves/JarUtilities/tree/main/WLang%20-%20conversor%20de%20texto%20para%20código%20morse%20da%20segunda%20guerra!/Wlang) 
+
+
+
+# Vamos juntos desvendar o mundo do Java! 🚀
 ## 🧑‍💻 Autor
 
 Feito ☕ por **[Eric Gonçalves]**.
