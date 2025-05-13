@@ -46,7 +46,7 @@ Bem-vindo ao repositório de estudos em **Java**! Aqui você encontrará diverso
 # Vamos juntos desvendar o mundo do Java! 🚀
 ## 🧑‍💻 Autor
 
-Feito ☕ por **[Eric Gonçalves]**.
+Feito ☕ por **<Eric Gonçalves>**.
 ---
 
 
