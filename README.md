@@ -24,18 +24,6 @@ Bem-vindo ao repositório de estudos em **Java**! Aqui você encontrará diverso
 ---
 
 
-![Operadores](https://img.shields.io/badge/Operadores-FFA500?style=for-the-badge&logo=java&logoColor=white)  
-![Estruturas Condicionais](https://img.shields.io/badge/Estruturas%20Condicionais-FFA500?style=for-the-badge&logo=java&logoColor=white)  
-![If Else](https://img.shields.io/badge/If%20Else-FFA500?style=for-the-badge&logo=java&logoColor=white)  
-![Operadores Ternários](https://img.shields.io/badge/Operadores%20Ternários-FFA500?style=for-the-badge&logo=java&logoColor=white)  
-![Operadores Lógicos](https://img.shields.io/badge/Operadores%20Lógicos-FFA500?style=for-the-badge&logo=java&logoColor=white)  
-![Tipos Primitivos](https://img.shields.io/badge/Tipos%20Primitivos-FFA500?style=for-the-badge&logo=java&logoColor=white)  
-![Interfaces Gráficas](https://img.shields.io/badge/Interfaces%20Gráficas-FFA500?style=for-the-badge&logo=java&logoColor=white)  
-![Dados](https://img.shields.io/badge/Dados-FFA500?style=for-the-badge&logo=java&logoColor=white)  
-![Objetos](https://img.shields.io/badge/Objetos-4CAF50?style=for-the-badge&logo=java&logoColor=white)
-![++](https://img.shields.io/badge/++-FFA500?style=for-the-badge&logo=java&logoColor=white)
----
-
 ## Aviso importante ⚠️
 
 Você vai perceber que as classes **não têm `package javacore...` no topo**, como por exemplo:  
