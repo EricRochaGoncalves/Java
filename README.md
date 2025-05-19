@@ -46,7 +46,7 @@ Essa organização não interfere em nada no conteúdo ou na lógica — só dei
 
 
 ---
-## Dá uma olhada aqui em um dos projetos do **Javeiro** 👨‍💻☕
+## Dá uma olhada em um dos projetos do **Javeiro** 👨‍💻☕
 
 [**Uma mini linguagem usando os objetos do java**](https://github.com/EricRochaGoncalves/Linguagem_da_madrugada)  <br>
 [**Uma mini linguagem que transforma texto em código morse**](https://github.com/EricRochaGoncalves/JarUtilities/tree/main/WLang%20-%20conversor%20de%20texto%20para%20código%20morse%20da%20segunda%20guerra!/Wlang) <br>
