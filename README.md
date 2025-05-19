@@ -27,7 +27,7 @@ Bem-vindo ao repositório dos meus estudos em **Java**! Aqui você encontrará d
 ## Aviso importante ⚠️
 
 Você vai perceber que as classes **não têm `package DevDojo...` no topo**, como por exemplo:  
-`package javacore.Bintroducaodasclasses.dominio;`
+`package DevDojo.Bintroducaodasclasses.dominio;`
 
 Isso acontece porque, durante o desenvolvimento, **eu não criei os pacotes diretamente dentro da pasta `DevDojo/`**.  
 Em vez disso, criei pastas como esta:
