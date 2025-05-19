@@ -34,6 +34,28 @@ Bem-vindo ao repositório de estudos em **Java**! Aqui você encontrará diverso
 ![Dados](https://img.shields.io/badge/Dados-FFA500?style=for-the-badge&logo=java&logoColor=white)  
 ![Objetos](https://img.shields.io/badge/Objetos-4CAF50?style=for-the-badge&logo=java&logoColor=white)
 ![++](https://img.shields.io/badge/++-FFA500?style=for-the-badge&logo=java&logoColor=white)
+---
+
+## Aviso importante ⚠️
+
+Você vai perceber que as classes **não têm `package javacore...` no topo**, como por exemplo:  
+`package javacore.Bintroducaodasclasses.dominio;`
+
+Isso acontece porque, durante o desenvolvimento, **eu não criei os pacotes diretamente dentro da pasta `javacore/`**.  
+Em vez disso, criei pastas como esta:
+
+Bintroducaodasclasses/ <br>
+├── dominio/ <br>
+└── test/ <br>
+
+E **só depois movi a pasta `Bintroducaodasclasses` para dentro do diretório `javacore/`**.  
+Como ela não foi criada originalmente lá dentro, os arquivos acabaram ficando com `package dominio;` e `package test;`, **sem o prefixo `javacore`**.
+
+Fiz isso pra manter o desempenho, porque minha máquina tem **8 GB de RAM** e Java exige bastante. Assim, fui separando por partes e organizando aos poucos, sem deixar o IntelliJ virar uma carroça. 🛒
+
+Essa organização não interfere em nada no conteúdo ou na lógica — só deixa o processo mais leve e prático.
+
+
 
 ---
 ## Dá uma olhada aqui em um dos códigos do **Javeiro** 👨‍💻☕
