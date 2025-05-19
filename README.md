@@ -23,7 +23,6 @@ Bem-vindo ao repositório dos meus estudos em **Java**! Aqui você encontrará d
 
 ---
 
-
 ## Aviso importante ⚠️
 
 Você vai perceber que as classes **não têm `package DevDojo...` no topo**, como por exemplo:  
@@ -39,13 +38,13 @@ Bintroducaodasclasses/ <br>
 E **só depois movi a pasta `Bintroducaodasclasses` para dentro do diretório `DevDojo/`**.  
 Como ela não foi criada originalmente lá dentro, os arquivos acabaram ficando com `package dominio;` e `package test;`, **sem o prefixo `DevDojo`**.
 
-Fiz isso pra manter o desempenho, porque minha máquina tem **8 GB de RAM** e Java exige bastante. Assim, fui separando por partes e organizando aos poucos, sem deixar o IntelliJ virar uma carroça. 🛒
+Além disso, como optei por desenvolver cada conteúdo separadamente, em arquivos e pastas distintas, **os caminhos nem sempre seguem uma estrutura coesa entre si**. Isso foi uma decisão intencional para facilitar meus testes e a organização em uma máquina com **apenas 8 GB de RAM**, já que o Java exige bastante.
 
-Essa organização não interfere em nada no conteúdo ou na lógica — só deixa o processo mais leve e prático.
-
-
+Fui separando por partes e organizando aos poucos, sem deixar o IntelliJ virar uma carroça. 🛒  
+Essa organização **não interfere na lógica, nem no aprendizado** — apenas torna o processo mais leve e acessível.
 
 ---
+
 ## Dá uma olhada em um dos projetos do **Javeiro** 👨‍💻☕
 
 [**Uma mini linguagem usando os objetos do java com SpringBoot**](https://github.com/EricRochaGoncalves/Linguagem_da_madrugada)  <br>
